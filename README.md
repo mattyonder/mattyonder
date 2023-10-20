@@ -3,7 +3,7 @@
 </div>
 
 - 🎓 4° Periodo
-- 🌱 Atualmente estudando Angular e Spring Boot
+- 🌱 Atualmente estudando Angular e Spring
 - 🚀 Evoluindo como Desenvolvedor Full-Stack
 
 
