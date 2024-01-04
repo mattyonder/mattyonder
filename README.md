@@ -3,7 +3,7 @@
 </div>
 
 - 🎓 4° Periodo
-- 🌱 Atualmente estudando ReactJS e Python
+- 🌱 Atualmente estudando ReactJS e Java Spring
 - 🚀 Evoluindo como Desenvolvedor Full-Stack
 
 
