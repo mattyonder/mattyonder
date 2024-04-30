@@ -3,8 +3,8 @@
 </div>
 
 - 🎓 Sistemas de Informação / 5° Período
-- 🌱 Atualmente estudando ReactJS e Java Spring
-- 🚀 Evoluindo como Desenvolvedor Full-Stack
+- 🌱 Atualmente estudando Angular e Java Spring
+- 🚀 Estágiario em Desenvolvimento de Sistemas
 
 
 <div align="center">
