@@ -4,8 +4,6 @@
 
 - 🎓 Sistemas de Informação / 5° Período
 - 🌱 Atualmente estudando Angular e Java Spring
-- 🚀 Estágiario em Desenvolvimento de Sistemas
-
 
 <div align="center">
   <a href="https://github.com/mattyonder">
