@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=30&duration=4000&pause=1500&color=ac21e6&width=450&lines=Oi,+eu+sou+Mateus+Santos.;Seja+bem-vindo!"/></a>
 </div>
 
-- 🎓 Sistemas de Informação / 5° Período
+- 🎓 Sistemas de Informação / 6° Período
 - 🌱 Atualmente estudando Angular e Java Spring
 
 <div align="center">
