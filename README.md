@@ -41,7 +41,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mattyonder&show_icons=true&theme=neon&include_all_commits=true&count_private=true" alt="Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattyonder&layout=compact&langs_count=7&theme=neon" alt="Top Langs" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mattyonder&layout=compact&langs_count=7&theme=neon" alt="Top Langs" width="49%" />
 </p>
 
 ---
