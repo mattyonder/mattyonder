@@ -14,9 +14,9 @@
 
 ### 👋 Sobre Mim
 
-- 🎓 **Formação:** Bacharel em Sistemas de Informação
-- 🚀 **Nível:** Desenvolvedor Full Stack Pleno
-- 🌱 **Foco Atual:** Arquitetura de componentes com **Angular** e desenvolvimento back-end com **Java + Spring Boot**
+- 🎓 Bacharel em Sistemas de Informação
+- 🚀 Desenvolvedor Full Stack Pleno
+- 🌱 Arquitetura de componentes com **Angular** e desenvolvimento back-end com **Java + Spring Boot**
 
 ---
 
